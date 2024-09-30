@@ -1,3 +1,4 @@
+
 # Travail à Rendre : Scripts des Développeurs
 # Introduction
 Dans cette section, nous explorons les fonctionnalités avancées de JDBC en effectuant plusieurs exercices qui se concentrent sur la gestion des données relatives aux développeurs. L'objectif principal est de démontrer la capacité à interagir avec la base de données de manière efficace et structurée.
@@ -25,6 +26,12 @@ Dans cette partie, la méthode afficherMetaData() utilise JDBC pour récupérer 
 # Conclusion:
 Ce projet a permis d'acquérir une compréhension approfondie de l'utilisation de JDBC pour interagir avec une base de données. En mettant en œuvre diverses fonctionnalités, telles que l'insertion, la récupération et la manipulation de données, ce TP a renforcé la maîtrise des concepts fondamentaux de l'accès aux bases de données avec Java.
 # Video de demonstration:
+https://github.com/user-attachments/assets/e4d636c2-3162-425b-b711-bfc9ae105285
+
+
+
+
+
 
 
 
